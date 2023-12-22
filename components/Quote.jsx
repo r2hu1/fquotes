@@ -17,7 +17,7 @@ export default function Quotes() {
 
     return (
         <div className="h-screen grid items-center p-6">
-            <div className="bg-secondary max-w-md mx-auto p-8 rounded-lg">
+            <div className="bg-secondary max-w-md mx-auto p-8 rounded-lg -mt-10">
                 <div>
                     <p className="text-lg">{quotes}</p>
                     <p className="text-right mt-3 text-md">- {author}</p>
