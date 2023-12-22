@@ -1,7 +1,7 @@
 export default function Footer(){
 
     return (
-        <footer className="fixed bottom-0 left-0 right-0 py-10 grid gap-3 px-8 md:px-20 border-t">
+        <footer className="-mt-10 py-10 grid gap-3 px-8 md:px-20 border-t">
             <ul>
                 <li>
                     <a className="text-md hover:underline hover:text-primary" href="#">Fix this page</a>
